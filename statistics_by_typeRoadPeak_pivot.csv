@@ -1,0 +1,329 @@
+Hour(HH),type ,Highway,Peak_Hour,Count
+0,Alert,FALSE,FALSE,48
+0,Congestion,FALSE,FALSE,1
+0,Crash,FALSE,FALSE,25
+0,Crash,TRUE,FALSE,11
+0,Hazard,FALSE,FALSE,41
+0,Hazard,TRUE,FALSE,54
+0,Planned Event/Roadworks,FALSE,FALSE,651
+0,Planned Event/Roadworks,TRUE,FALSE,114
+0,Stationary Vehicle,FALSE,FALSE,9
+0,Stationary Vehicle,TRUE,FALSE,88
+1,Alert,FALSE,FALSE,10
+1,Alert,TRUE,FALSE,2
+1,Congestion,FALSE,FALSE,1
+1,Crash,FALSE,FALSE,27
+1,Crash,TRUE,FALSE,33
+1,Hazard,FALSE,FALSE,64
+1,Hazard,TRUE,FALSE,70
+1,Planned Event/Roadworks,FALSE,FALSE,237
+1,Planned Event/Roadworks,TRUE,FALSE,77
+1,Stationary Vehicle,FALSE,FALSE,18
+1,Stationary Vehicle,TRUE,FALSE,116
+2,Alert,FALSE,FALSE,7
+2,Alert,TRUE,FALSE,1
+2,Congestion,FALSE,FALSE,1
+2,Crash,FALSE,FALSE,32
+2,Crash,TRUE,FALSE,20
+2,Hazard,FALSE,FALSE,80
+2,Hazard,TRUE,FALSE,69
+2,Planned Event/Roadworks,FALSE,FALSE,120
+2,Planned Event/Roadworks,TRUE,FALSE,59
+2,Stationary Vehicle,FALSE,FALSE,10
+2,Stationary Vehicle,TRUE,FALSE,110
+3,Alert,FALSE,FALSE,2
+3,Alert,TRUE,FALSE,2
+3,Crash,FALSE,FALSE,19
+3,Crash,TRUE,FALSE,23
+3,Hazard,FALSE,FALSE,51
+3,Hazard,TRUE,FALSE,49
+3,Planned Event/Roadworks,FALSE,FALSE,76
+3,Planned Event/Roadworks,TRUE,FALSE,22
+3,Stationary Vehicle,FALSE,FALSE,7
+3,Stationary Vehicle,TRUE,FALSE,84
+4,Alert,FALSE,FALSE,6
+4,Alert,TRUE,FALSE,2
+4,Crash,FALSE,FALSE,23
+4,Crash,TRUE,FALSE,42
+4,Hazard,FALSE,FALSE,56
+4,Hazard,TRUE,FALSE,82
+4,Planned Event/Roadworks,FALSE,FALSE,84
+4,Planned Event/Roadworks,TRUE,FALSE,25
+4,Stationary Vehicle,FALSE,FALSE,11
+4,Stationary Vehicle,TRUE,FALSE,104
+5,Alert,FALSE,FALSE,1
+5,Alert,TRUE,FALSE,3
+5,Congestion,FALSE,TRUE,1
+5,Congestion,TRUE,FALSE,1
+5,Congestion,TRUE,TRUE,1
+5,Crash,FALSE,FALSE,10
+5,Crash,FALSE,TRUE,42
+5,Crash,TRUE,FALSE,25
+5,Crash,TRUE,TRUE,41
+5,Hazard,FALSE,FALSE,28
+5,Hazard,FALSE,TRUE,64
+5,Hazard,TRUE,FALSE,42
+5,Hazard,TRUE,TRUE,58
+5,Planned Event/Roadworks,FALSE,FALSE,62
+5,Planned Event/Roadworks,FALSE,TRUE,171
+5,Planned Event/Roadworks,TRUE,FALSE,33
+5,Planned Event/Roadworks,TRUE,TRUE,154
+5,Stationary Vehicle,FALSE,FALSE,13
+5,Stationary Vehicle,FALSE,TRUE,17
+5,Stationary Vehicle,TRUE,FALSE,69
+5,Stationary Vehicle,TRUE,TRUE,92
+6,Alert,FALSE,TRUE,11
+6,Alert,TRUE,TRUE,2
+6,Congestion,FALSE,TRUE,83
+6,Congestion,TRUE,TRUE,114
+6,Crash,FALSE,TRUE,257
+6,Crash,TRUE,TRUE,185
+6,Hazard,FALSE,TRUE,202
+6,Hazard,TRUE,TRUE,291
+6,Planned Event/Roadworks,FALSE,TRUE,369
+6,Planned Event/Roadworks,TRUE,TRUE,68
+6,Stationary Vehicle,FALSE,TRUE,114
+6,Stationary Vehicle,TRUE,TRUE,738
+7,Alert,FALSE,TRUE,12
+7,Alert,TRUE,TRUE,12
+7,Congestion,FALSE,TRUE,184
+7,Congestion,TRUE,TRUE,168
+7,Crash,FALSE,TRUE,373
+7,Crash,TRUE,TRUE,253
+7,Hazard,FALSE,TRUE,307
+7,Hazard,TRUE,TRUE,487
+7,Planned Event/Roadworks,FALSE,TRUE,560
+7,Planned Event/Roadworks,TRUE,TRUE,160
+7,Stationary Vehicle,FALSE,TRUE,383
+7,Stationary Vehicle,TRUE,TRUE,1672
+8,Alert,FALSE,FALSE,8
+8,Alert,FALSE,TRUE,8
+8,Alert,TRUE,FALSE,3
+8,Alert,TRUE,TRUE,6
+8,Congestion,FALSE,FALSE,76
+8,Congestion,FALSE,TRUE,155
+8,Congestion,TRUE,FALSE,122
+8,Congestion,TRUE,TRUE,124
+8,Crash,FALSE,FALSE,343
+8,Crash,FALSE,TRUE,374
+8,Crash,TRUE,FALSE,193
+8,Crash,TRUE,TRUE,173
+8,Hazard,FALSE,FALSE,228
+8,Hazard,FALSE,TRUE,271
+8,Hazard,TRUE,FALSE,336
+8,Hazard,TRUE,TRUE,373
+8,Planned Event/Roadworks,FALSE,FALSE,526
+8,Planned Event/Roadworks,FALSE,TRUE,477
+8,Planned Event/Roadworks,TRUE,FALSE,166
+8,Planned Event/Roadworks,TRUE,TRUE,215
+8,Stationary Vehicle,FALSE,FALSE,643
+8,Stationary Vehicle,FALSE,TRUE,835
+8,Stationary Vehicle,TRUE,FALSE,942
+8,Stationary Vehicle,TRUE,TRUE,1097
+9,Alert,FALSE,FALSE,17
+9,Alert,TRUE,FALSE,1
+9,Congestion,FALSE,FALSE,57
+9,Congestion,TRUE,FALSE,89
+9,Crash,FALSE,FALSE,550
+9,Crash,TRUE,FALSE,287
+9,Hazard,FALSE,FALSE,519
+9,Hazard,TRUE,FALSE,545
+9,Planned Event/Roadworks,FALSE,FALSE,957
+9,Planned Event/Roadworks,TRUE,FALSE,321
+9,Stationary Vehicle,FALSE,FALSE,687
+9,Stationary Vehicle,TRUE,FALSE,1781
+10,Alert,FALSE,FALSE,10
+10,Alert,TRUE,FALSE,6
+10,Congestion,FALSE,FALSE,31
+10,Congestion,TRUE,FALSE,59
+10,Crash,FALSE,FALSE,431
+10,Crash,TRUE,FALSE,287
+10,Hazard,FALSE,FALSE,651
+10,Hazard,TRUE,FALSE,724
+10,Planned Event/Roadworks,FALSE,FALSE,772
+10,Planned Event/Roadworks,TRUE,FALSE,296
+10,Stationary Vehicle,FALSE,FALSE,498
+10,Stationary Vehicle,TRUE,FALSE,2052
+11,Alert,FALSE,FALSE,9
+11,Alert,TRUE,FALSE,6
+11,Congestion,FALSE,FALSE,13
+11,Congestion,TRUE,FALSE,53
+11,Crash,FALSE,FALSE,398
+11,Crash,TRUE,FALSE,270
+11,Hazard,FALSE,FALSE,466
+11,Hazard,TRUE,FALSE,609
+11,Planned Event/Roadworks,FALSE,FALSE,422
+11,Planned Event/Roadworks,TRUE,FALSE,194
+11,Stationary Vehicle,FALSE,FALSE,327
+11,Stationary Vehicle,TRUE,FALSE,1511
+12,Alert,FALSE,FALSE,9
+12,Alert,TRUE,FALSE,8
+12,Congestion,FALSE,FALSE,18
+12,Congestion,TRUE,FALSE,41
+12,Crash,FALSE,FALSE,486
+12,Crash,TRUE,FALSE,279
+12,Hazard,FALSE,FALSE,505
+12,Hazard,TRUE,FALSE,694
+12,Planned Event/Roadworks,FALSE,FALSE,400
+12,Planned Event/Roadworks,TRUE,FALSE,163
+12,Stationary Vehicle,FALSE,FALSE,401
+12,Stationary Vehicle,TRUE,FALSE,2067
+13,Alert,FALSE,FALSE,7
+13,Alert,TRUE,FALSE,4
+13,Congestion,FALSE,FALSE,21
+13,Congestion,TRUE,FALSE,25
+13,Crash,FALSE,FALSE,379
+13,Crash,TRUE,FALSE,229
+13,Hazard,FALSE,FALSE,394
+13,Hazard,TRUE,FALSE,581
+13,Planned Event/Roadworks,FALSE,FALSE,319
+13,Planned Event/Roadworks,TRUE,FALSE,163
+13,Stationary Vehicle,FALSE,FALSE,353
+13,Stationary Vehicle,TRUE,FALSE,1669
+14,Alert,FALSE,FALSE,12
+14,Alert,TRUE,FALSE,6
+14,Congestion,FALSE,FALSE,27
+14,Congestion,TRUE,FALSE,30
+14,Crash,FALSE,FALSE,494
+14,Crash,TRUE,FALSE,263
+14,Hazard,FALSE,FALSE,451
+14,Hazard,TRUE,FALSE,683
+14,Planned Event/Roadworks,FALSE,FALSE,350
+14,Planned Event/Roadworks,TRUE,FALSE,223
+14,Stationary Vehicle,FALSE,FALSE,457
+14,Stationary Vehicle,TRUE,FALSE,2036
+15,Alert,FALSE,FALSE,11
+15,Alert,TRUE,FALSE,13
+15,Congestion,FALSE,FALSE,82
+15,Congestion,TRUE,FALSE,73
+15,Crash,FALSE,FALSE,548
+15,Crash,TRUE,FALSE,348
+15,Hazard,FALSE,FALSE,415
+15,Hazard,TRUE,FALSE,624
+15,Planned Event/Roadworks,FALSE,FALSE,264
+15,Planned Event/Roadworks,TRUE,FALSE,152
+15,Stationary Vehicle,FALSE,FALSE,565
+15,Stationary Vehicle,TRUE,FALSE,2160
+16,Alert,FALSE,FALSE,2
+16,Alert,FALSE,TRUE,2
+16,Alert,TRUE,FALSE,3
+16,Alert,TRUE,TRUE,10
+16,Congestion,FALSE,FALSE,76
+16,Congestion,FALSE,TRUE,80
+16,Congestion,TRUE,FALSE,82
+16,Congestion,TRUE,TRUE,67
+16,Crash,FALSE,FALSE,386
+16,Crash,FALSE,TRUE,424
+16,Crash,TRUE,FALSE,226
+16,Crash,TRUE,TRUE,248
+16,Hazard,FALSE,FALSE,205
+16,Hazard,FALSE,TRUE,254
+16,Hazard,TRUE,FALSE,303
+16,Hazard,TRUE,TRUE,348
+16,Planned Event/Roadworks,FALSE,FALSE,119
+16,Planned Event/Roadworks,FALSE,TRUE,226
+16,Planned Event/Roadworks,TRUE,FALSE,57
+16,Planned Event/Roadworks,TRUE,TRUE,77
+16,Stationary Vehicle,FALSE,FALSE,330
+16,Stationary Vehicle,FALSE,TRUE,964
+16,Stationary Vehicle,TRUE,FALSE,1214
+16,Stationary Vehicle,TRUE,TRUE,1594
+17,Alert,TRUE,TRUE,8
+17,Congestion,FALSE,TRUE,106
+17,Congestion,TRUE,TRUE,76
+17,Crash,FALSE,TRUE,639
+17,Crash,TRUE,TRUE,332
+17,Hazard,FALSE,TRUE,400
+17,Hazard,TRUE,TRUE,452
+17,Planned Event/Roadworks,FALSE,TRUE,555
+17,Planned Event/Roadworks,TRUE,TRUE,129
+17,Stationary Vehicle,FALSE,TRUE,3154
+17,Stationary Vehicle,TRUE,TRUE,2214
+18,Alert,FALSE,TRUE,3
+18,Alert,TRUE,TRUE,3
+18,Congestion,FALSE,TRUE,89
+18,Congestion,TRUE,TRUE,41
+18,Crash,FALSE,TRUE,643
+18,Crash,TRUE,TRUE,382
+18,Hazard,FALSE,TRUE,383
+18,Hazard,TRUE,TRUE,425
+18,Planned Event/Roadworks,FALSE,TRUE,654
+18,Planned Event/Roadworks,TRUE,TRUE,192
+18,Stationary Vehicle,FALSE,TRUE,1584
+18,Stationary Vehicle,TRUE,TRUE,2393
+19,Alert,FALSE,FALSE,1
+19,Alert,FALSE,TRUE,3
+19,Congestion,FALSE,TRUE,2
+19,Congestion,TRUE,FALSE,1
+19,Congestion,TRUE,TRUE,7
+19,Crash,FALSE,FALSE,92
+19,Crash,FALSE,TRUE,173
+19,Crash,TRUE,FALSE,36
+19,Crash,TRUE,TRUE,89
+19,Hazard,FALSE,FALSE,91
+19,Hazard,FALSE,TRUE,122
+19,Hazard,TRUE,FALSE,92
+19,Hazard,TRUE,TRUE,149
+19,Planned Event/Roadworks,FALSE,FALSE,202
+19,Planned Event/Roadworks,FALSE,TRUE,201
+19,Planned Event/Roadworks,TRUE,FALSE,430
+19,Planned Event/Roadworks,TRUE,TRUE,292
+19,Stationary Vehicle,FALSE,FALSE,117
+19,Stationary Vehicle,FALSE,TRUE,285
+19,Stationary Vehicle,TRUE,FALSE,450
+19,Stationary Vehicle,TRUE,TRUE,807
+20,Alert,FALSE,FALSE,1
+20,Congestion,TRUE,FALSE,6
+20,Crash,FALSE,FALSE,188
+20,Crash,TRUE,FALSE,82
+20,Hazard,FALSE,FALSE,231
+20,Hazard,TRUE,FALSE,194
+20,Planned Event/Roadworks,FALSE,FALSE,765
+20,Planned Event/Roadworks,TRUE,FALSE,1028
+20,Stationary Vehicle,FALSE,FALSE,218
+20,Stationary Vehicle,TRUE,FALSE,1028
+21,Alert,FALSE,FALSE,4
+21,Alert,TRUE,FALSE,3
+21,Congestion,FALSE,FALSE,1
+21,Congestion,TRUE,FALSE,3
+21,Crash,FALSE,FALSE,89
+21,Crash,TRUE,FALSE,42
+21,Hazard,FALSE,FALSE,167
+21,Hazard,TRUE,FALSE,144
+21,Planned Event/Roadworks,FALSE,FALSE,432
+21,Planned Event/Roadworks,TRUE,FALSE,357
+21,Stationary Vehicle,FALSE,FALSE,100
+21,Stationary Vehicle,TRUE,FALSE,501
+22,Alert,TRUE,FALSE,1
+22,Congestion,FALSE,FALSE,3
+22,Congestion,TRUE,FALSE,1
+22,Crash,FALSE,FALSE,109
+22,Crash,TRUE,FALSE,50
+22,Hazard,FALSE,FALSE,152
+22,Hazard,TRUE,FALSE,151
+22,Planned Event/Roadworks,FALSE,FALSE,287
+22,Planned Event/Roadworks,TRUE,FALSE,196
+22,Stationary Vehicle,FALSE,FALSE,85
+22,Stationary Vehicle,TRUE,FALSE,547
+23,Alert,FALSE,FALSE,2
+23,Alert,TRUE,FALSE,1
+23,Congestion,FALSE,FALSE,1
+23,Congestion,TRUE,FALSE,3
+23,Crash,FALSE,FALSE,50
+23,Crash,TRUE,FALSE,35
+23,Hazard,FALSE,FALSE,89
+23,Hazard,TRUE,FALSE,122
+23,Planned Event/Roadworks,FALSE,FALSE,136
+23,Planned Event/Roadworks,TRUE,FALSE,77
+23,Stationary Vehicle,FALSE,FALSE,25
+23,Stationary Vehicle,TRUE,FALSE,253
+24,Alert,FALSE,FALSE,6
+24,Alert,TRUE,FALSE,4
+24,Crash,FALSE,FALSE,27
+24,Crash,TRUE,FALSE,18
+24,Hazard,FALSE,FALSE,48
+24,Hazard,TRUE,FALSE,71
+24,Planned Event/Roadworks,FALSE,FALSE,71
+24,Planned Event/Roadworks,TRUE,FALSE,32
+24,Stationary Vehicle,FALSE,FALSE,14
+24,Stationary Vehicle,TRUE,FALSE,143
